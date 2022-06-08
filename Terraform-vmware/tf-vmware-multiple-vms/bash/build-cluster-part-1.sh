@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 #Create containerd config file
 sudo touch /etc/modules-load.d/containerd.conf
